@@ -1,2 +1,4 @@
-# Xiaomi-Mix-2S-XBL
-XBL Extract from Mix 2S
+# UEFI Files from Mi Mix 2S
+Miui Base: **V12.5.1.0.QDGCNXM**
+
+Variant: **Global**
